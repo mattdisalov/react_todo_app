@@ -1,3 +1,5 @@
+Demo: https://todo-list-site.netlify.app/
+
 Simple React ToDo app, has a Home and About page. You can Add, Mark as Completed and Delete ToDo items.
 
 What I used:
